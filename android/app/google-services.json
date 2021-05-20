@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185095710501",
+    "project_id": "chatapp-dade5",
+    "storage_bucket": "chatapp-dade5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185095710501:android:0f864829ce087b45f35ccc",
+        "android_client_info": {
+          "package_name": "com.pedrohrocodes.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185095710501-gmcbhqrrs8islr6ev5ss8ojuct79omag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA3eqv5WRYdNZktb71WcqSizdY2gd5nC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185095710501-gmcbhqrrs8islr6ev5ss8ojuct79omag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
